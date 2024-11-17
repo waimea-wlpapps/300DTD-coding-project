@@ -1,4 +1,4 @@
-# PROJECT NAME HERE
+# Explore New Zealand and Escape to Australia
 
 ### Level 3 Programming Project by William Papps
 
@@ -7,11 +7,6 @@ This project is assessed against [AS91906](https://www.nzqa.govt.nz/nqfdocs/ncea
 ## Project Description
 
 The project involves the programming of a game.
-
-BRIEF PROJECT DESCRIPTION HERE
-BRIEF PROJECT DESCRIPTION HERE
-BRIEF PROJECT DESCRIPTION HERE
-BRIEF PROJECT DESCRIPTION HERE
 
 
 ## Source Code
